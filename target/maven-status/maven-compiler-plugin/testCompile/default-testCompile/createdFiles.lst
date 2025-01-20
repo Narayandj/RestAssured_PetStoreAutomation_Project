@@ -1,0 +1,7 @@
+api\test\UserTests.class
+api\test\PropertieReaderUserTests2.class
+api\utilities\ExtentReportManager.class
+api\payloads\User.class
+api\endpoints\PropertiesUserEndPoint2.class
+api\endpoints\Routes.class
+api\endpoints\UserEndPoint.class

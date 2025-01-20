@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-20T15:43:47 IST" name="Suite" finished-at="2025-01-20T15:44:09 IST" duration-ms="21388">
+    <groups>
+    </groups>
+    <test started-at="2025-01-20T15:43:47 IST" name="Test" finished-at="2025-01-20T15:44:09 IST" duration-ms="21388">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@7c7a06ec]" started-at="2025-01-20T15:43:48 IST" name="setupData" finished-at="2025-01-20T15:43:48 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@7c7a06ec]" started-at="2025-01-20T15:43:48 IST" name="testPostUser" finished-at="2025-01-20T15:43:53 IST" duration-ms="4764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests@7c7a06ec]" started-at="2025-01-20T15:43:53 IST" name="testGetUserByName" finished-at="2025-01-20T15:43:55 IST" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTests@7c7a06ec]" started-at="2025-01-20T15:43:55 IST" name="testUpdateUser" finished-at="2025-01-20T15:43:58 IST" duration-ms="3724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTests@7c7a06ec]" started-at="2025-01-20T15:43:58 IST" name="testDeleteUser" finished-at="2025-01-20T15:44:00 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.test.UserTests -->
+      <class name="api.test.PropertieReaderUserTests2">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.PropertieReaderUserTests2@c730b35]" started-at="2025-01-20T15:44:00 IST" name="setupData" finished-at="2025-01-20T15:44:00 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPropertieReaderPostUser()[pri:1, instance:api.test.PropertieReaderUserTests2@c730b35]" started-at="2025-01-20T15:44:00 IST" name="testPropertieReaderPostUser" finished-at="2025-01-20T15:44:02 IST" duration-ms="1741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPropertieReaderPostUser -->
+        <test-method signature="testPropertieReaderGetUserByName()[pri:2, instance:api.test.PropertieReaderUserTests2@c730b35]" started-at="2025-01-20T15:44:02 IST" name="testPropertieReaderGetUserByName" finished-at="2025-01-20T15:44:04 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPropertieReaderGetUserByName -->
+        <test-method signature="testPropertieReaderUpdateUser()[pri:3, instance:api.test.PropertieReaderUserTests2@c730b35]" started-at="2025-01-20T15:44:04 IST" name="testPropertieReaderUpdateUser" finished-at="2025-01-20T15:44:07 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPropertieReaderUpdateUser -->
+        <test-method signature="testPropertieReaderDeleteUser()[pri:4, instance:api.test.PropertieReaderUserTests2@c730b35]" started-at="2025-01-20T15:44:07 IST" name="testPropertieReaderDeleteUser" finished-at="2025-01-20T15:44:09 IST" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPropertieReaderDeleteUser -->
+      </class> <!-- api.test.PropertieReaderUserTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
