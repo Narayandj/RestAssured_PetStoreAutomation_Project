@@ -1,0 +1,64 @@
+# .gitignore
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+.DS_Store
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# Test Reports and Outputs
+reports/
+test-output/
+screenshots/
+*.html
+*.log
+
+# Build
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.local
+*.properties.local
+
+# Dependencies
+.m2/
+*.classpath
+*.project
+.settings/
+
+# IntelliJ
+out/
+*.iws
+
+# Gradle
+.gradle/
+build/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
